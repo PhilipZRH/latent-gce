@@ -1,0 +1,6 @@
+gym
+pandas
+numpy
+opencv-python
+ray==1.2.0
+stable-baselines==2.9.0
