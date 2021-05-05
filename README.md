@@ -48,7 +48,7 @@ and computes the empowerment value across the 2D state space.
 python3 scripts/pendulum_pixels_empowerment.py
 ```
 
-### Bibtex
+## Bibtex
 ```
 @inproceedings{
 zhao2021efficient,
